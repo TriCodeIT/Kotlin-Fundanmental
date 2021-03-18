@@ -5,7 +5,7 @@ fun main() {
 
         for (j in 1..10) {
             println("Inside Loop")
-            if ( j > 5) break@loop
+            if (j > 5) break@loop
         }
     }
 }

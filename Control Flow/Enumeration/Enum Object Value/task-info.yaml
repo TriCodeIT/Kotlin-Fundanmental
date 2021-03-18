@@ -21,6 +21,8 @@ files:
         BLUE(0x0000FF)
     }
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  time: Thu, 18 Mar 2021 04:19:28 UTC
 record: -1
 post_submission_on_open: true
