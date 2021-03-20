@@ -6,3 +6,4 @@ fun main() {
 fun Int.plusThree(): Int {
     return this + 3
 }
+

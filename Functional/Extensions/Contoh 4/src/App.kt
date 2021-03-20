@@ -7,3 +7,4 @@ fun main() {
 
 val Int?.slice: Int
     get() = this?.div(2) ?: 0
+
