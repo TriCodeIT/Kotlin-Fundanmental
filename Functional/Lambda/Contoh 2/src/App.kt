@@ -5,3 +5,4 @@ fun main() {
 }
 
 val messageLength = { message: String -> message.length }
+
