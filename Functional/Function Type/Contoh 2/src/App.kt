@@ -11,3 +11,4 @@ fun main() {
     println(sumResult)
     println(multiplyResult)
 }
+
