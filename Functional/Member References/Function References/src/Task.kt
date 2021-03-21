@@ -6,3 +6,4 @@ fun main() {
 }
 
 fun Int.isEvenNumber() = this % 2 == 0
+
