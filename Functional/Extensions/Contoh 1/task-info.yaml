@@ -13,8 +13,6 @@ files:
         print("value $this")
     }
   learner_created: false
-status: Solved
-feedback:
-  time: Sat, 20 Mar 2021 10:53:34 UTC
+status: Unchecked
 record: -1
 post_submission_on_open: true

@@ -14,8 +14,6 @@ files:
         return number.sum()
     }
   learner_created: false
-status: Solved
-feedback:
-  time: Sat, 20 Mar 2021 14:12:59 UTC
+status: Unchecked
 record: -1
 post_submission_on_open: true

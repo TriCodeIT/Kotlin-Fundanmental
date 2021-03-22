@@ -5,3 +5,18 @@ fun main() {
 
     println(slice)
 }
+
+//fun main() {
+//    val total = listOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+//    var slice = total.slice(3..6)
+//
+//    println(slice)
+//}
+
+//fun main() {
+//    val total = listOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+//    var slice = total.slice(3..6 step 3)
+//
+//    println(slice)
+//}
+
