@@ -17,9 +17,6 @@ files:
         return valueA + valueB + valueC
     }
   learner_created: false
-status: Unchecked
-feedback:
-  message: Unable to execute task `Inner function`, main method is missing
-  time: Mon, 22 Mar 2021 00:05:29 UTC
+status: Solved
 record: -1
 post_submission_on_open: true
