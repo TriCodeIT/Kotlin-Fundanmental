@@ -15,3 +15,4 @@ fun main() = runBlocking {
     val income = async { getIncome() }
     println("Your profit is ${income.await() - capital.await()}")
 }
+
